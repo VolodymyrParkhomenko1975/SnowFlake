@@ -1,7 +1,8 @@
-[myconnection]
+[snowflake]
 account = "FRICGQR-GRB16275"
 user = "005VI00000FFVIIYA1"
 password = "8vxAVZS*y.&@4u"
+role = "ACCOUNTADMIN"
 warehouse = "COMPUTE_WH"
 database = "DEMO_DB"
 schema = "PUBLIC"
